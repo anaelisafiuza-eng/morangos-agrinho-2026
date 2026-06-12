@@ -1,7 +1,7 @@
 let imgCapa;
 
 function preload() {
-  imgCapa = loadImage('CAPA.jpg');
+  imgCapa = loadImage('CAPA.png');
 }
 
 function setup() {
