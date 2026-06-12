@@ -1,7 +1,7 @@
 const receitas = [
   {
     titulo: "Geleia de Morango",
-    imagem: "geleia.jpg",
+    imagem: "geleia.png",
     ingredientes: [
       "500 g de morangos maduros",
       "1 xícara de açúcar",
@@ -11,7 +11,7 @@ const receitas = [
   },
   {
     titulo: "Vitamina de Morango",
-    imagem: "vitamina.jpg",
+    imagem: "vitamina.png",
     ingredientes: [
       "1 xícara de morangos",
       "1 copo de leite ou iogurte",
@@ -22,7 +22,7 @@ const receitas = [
   },
   {
     titulo: "Morangos Congelados",
-    imagem: "congelados.jpg",
+    imagem: "congelados.png",
     ingredientes: [
       "Morangos frescos e maduros"
     ],
